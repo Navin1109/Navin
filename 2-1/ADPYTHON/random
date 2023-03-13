@@ -1,0 +1,7 @@
+from random import randint
+y=[]
+n=int(input("Enter the size of the list:"))
+for i in range(n):
+    a=randint(1,10)
+    y.append(a)
+print(y)

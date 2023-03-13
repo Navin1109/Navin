@@ -1,0 +1,11 @@
+
+
+'''class edata 
+    def__init__(self,id,,name,sal):
+       self.n=name
+       self.id=id
+       self.e=0
+       self.s=sal
+    def display (self):
+        print("Name:,self.n")
+        print("Id ")  ''' 
